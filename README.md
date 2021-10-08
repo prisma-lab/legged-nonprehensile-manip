@@ -3,7 +3,7 @@
 Data and implementation of the nonprehensile object transportation method for legged robots developed in the paper:
 
 *[V. Morlando](),
-[M. Selvaggio](http://wpage.unina.it/mario.selvaggio/index.html), [F. Ruggiero](http://www.fabioruggiero.name/web/index.php/en/), "[Nonprehensile Object Transportation with a Legged Manipulator]()", IEEE Robotics and Automation Letters (submitted), 2021.* 
+[M. Selvaggio](http://wpage.unina.it/mario.selvaggio/index.html), [F. Ruggiero](http://www.fabioruggiero.name/web/index.php/en/), "Nonprehensile Object Transportation with a Legged Manipulator", IEEE Robotics and Automation Letters (submitted), 2021.* 
 
 
 [![Nonprehensile object transportation](trajectory.png)]()
