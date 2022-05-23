@@ -6,7 +6,7 @@ Data and implementation of the nonprehensile object transportation method for le
 [M. Selvaggio](http://wpage.unina.it/mario.selvaggio/index.html), [F. Ruggiero](http://www.fabioruggiero.name/web/index.php/en/), "[Nonprehensile Object Transportation with a Legged Manipulator](http://www.fabioruggiero.name/web/files/Papers/C38.pdf)", in Proc. IEEE Int. Conf.
 Robot. Autom., Philadelphia, USA, 2022, p. to appear.
 
-[![Nonprehensile object transportation](trajectory.png)](ttps://youtu.be/eT-N4kTAC8g)
+[![Nonprehensile object transportation](trajectory.png)](https://youtu.be/eT-N4kTAC8g)
 
 ### Citing
 ```
